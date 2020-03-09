@@ -6,4 +6,5 @@ def countdown(count)
     puts countdown
     count -= 1
   end
+  "HAPPY NEW YEAR!"
 end
